@@ -1,26 +1,24 @@
 {
-  "name": "serverless-webrtc",
-  "version": "1.0.5",
-  "description": "A terminal text chat client for webrtc datachannels between node and browsers.",
-  "author": "Chris Ball <chris@printf.net> (http://printf.net/)",
+  "name": "vscode-collaborate",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Amit Sengupta <amitse@outlook.com>",
   "license": "MIT",
-  "main": "serverless-webrtc.js",
+  "main": "index.js",
   "dependencies": {
     "wrtc": "~0.0.29",
     "ansi": "0.3.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cjb/serverless-webrtc"
+    "url": "git://github.com/amitse/vscode-collaborate"
   },
   "keywords": [
     "webrtc",
-    "chat"
+    "vscode"
   ],
   "bugs": {
-    "url": "https://github.com/cjb/serverless-webrtc/issues"
+    "url": "https://github.com/amitse/vscode-collaborate/issues"
   },
-  "bin": "./serverless-webrtc.js",
-  "preferGlobal": true,
-  "homepage": "https://github.com/cjb/serverless-webrtc"
+  "homepage": "https://github.com/amitse/vscode-collaborate"
 }
